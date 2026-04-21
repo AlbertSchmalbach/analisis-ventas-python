@@ -30,5 +30,8 @@ El sistema genera:
 - Gráfico de ventas
 - Archivo Excel con resumen
 
+## 📸 Vista previa
+![Grafico](ventas_producto.png)
+
 ## 👨‍💻 Autor
 Alberto Schmalbach
